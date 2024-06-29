@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/account" />
+        <option name="gradleJvm" value="azul-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/account" />
+            <option value="$PROJECT_DIR$/account/adapter-in" />
+            <option value="$PROJECT_DIR$/account/adapter-out" />
+            <option value="$PROJECT_DIR$/account/application" />
+            <option value="$PROJECT_DIR$/account/domain" />
+            <option value="$PROJECT_DIR$/account/port-in" />
+            <option value="$PROJECT_DIR$/account/port-out" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
